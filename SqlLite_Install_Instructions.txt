@@ -1,0 +1,8 @@
+
+In your existing project, select your application target:
+
+Under the Linked Frameworks section
+Clicke the "+", and in the "Choose frameworks and libraries to add"
+type in "libs", and select "libsqlite3.dylib" and tap "Add"
+
+This library adds support to SQLite used with DatManager
